@@ -28,7 +28,14 @@ public class TestCases {
 		
 	}
 	private void createMedium() {
-		// TODO Auto-generated method stub
+		String[][] medium = 
+			{
+					{"b", "c", "d", " f", " ", "h"},
+					{"f ", "l", "q", "r", "m", " "},
+					{" ", "a ", "d", "s", "u", "o"},
+					{"b ", "x", "s ", "f", "j", "n"}
+		};
+		this.medium = medium;
 		
 	}
 	private void createSmall() {
